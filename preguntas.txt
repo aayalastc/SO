@@ -1,0 +1,25 @@
+1.- ¿Qué comando ejecutó en el paso 5? 
+
+git add sistema_operativo.txt
+
+
+2.- ¿Qué comando ejecutó en el paso 10 y cual fue el resultado que mostró git?
+
+git branch    
+*master
+ windows8
+
+
+3.- ¿Qué comando ejecutó en el paso 12 y decir en qué rama se encuentra?
+
+git brnch      //se encuentra en la rama windows8
+ master
+*windows8
+
+4.- ¿Porqué se causó el conflicto en el paso 28?
+
+Existe un conflicto ya que no coincide el contenido del repositorio local de la repo de github.
+
+5.- ¿Qué comando se ejecutó en el paso 32?
+
+git status
