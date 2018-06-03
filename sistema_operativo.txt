@@ -1,4 +1,4 @@
-Título: WINDOWS 8
+Título: WINDOWS 8.X
 Fecha lanzamiento: 26 de octubre de 2012
 Idiomas: Multilenguaje
 Plataformas: x86 y x64
